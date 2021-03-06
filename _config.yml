@@ -1,3 +1,5 @@
 # _config.yml
 
 title: "Clwb Mynydda Clwyd"
+# not used with remote_theme: theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
