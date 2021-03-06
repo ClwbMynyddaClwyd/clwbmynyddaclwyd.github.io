@@ -13,3 +13,6 @@ Croeso y  Clwb Mynydda CLwyd
 Welcome to the Clwyd Mountaineering Club.
 
 This is a test!
+Trigger the build...
+
+Simple link back to the [club website](https://clwyd.clubmesh.com), or to the [canonical domain](https://clwydmc.co.uk).
