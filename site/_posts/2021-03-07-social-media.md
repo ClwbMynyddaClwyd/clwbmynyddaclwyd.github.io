@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Social Media"
-category: Social
+categories: Club-Info Social
 tags: social communication connecting
 banner:
 ---
