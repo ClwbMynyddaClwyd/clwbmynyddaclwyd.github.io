@@ -3,6 +3,7 @@ layout: post
 title: "Clwyd Rock Meets"
 categories: Club-Info Climbing
 tags: climbing
+banner: "/assets/banners/copy-rob-g-and-sylvia-f-penmaenhead.png"
 ---
 
 The Thursday Evening Clwyd Rock meets are open to all current and prospective members. The venues are chosen to suit all grades of climbing ability and are spread across the area to give all a reasonable opportunity after work. They give a good mix of Trad and Sport climbing with some Bouldering when evenings are short and usually start from 6.00-6.30pm.

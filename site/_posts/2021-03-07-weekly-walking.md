@@ -3,6 +3,7 @@ layout: post
 title: "Weekly Walking"
 categories: Club-Info Walking
 tags: walking
+banner: "/assets/banners/brocken-spectre.jpg"
 ---
 
 David Evans and Mark Evans are the co-ordinators and regular walks and scrambles are organised.

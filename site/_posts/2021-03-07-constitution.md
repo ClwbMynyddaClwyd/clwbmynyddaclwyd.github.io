@@ -3,6 +3,7 @@ layout: post
 title: "Constitution"
 categories: Club-Info About
 tags: about
+banner: "/assets/banners/cropped-alex-pembroke.png"
 ---
 
 __Last Amended: 2021-02-29 at AGM__

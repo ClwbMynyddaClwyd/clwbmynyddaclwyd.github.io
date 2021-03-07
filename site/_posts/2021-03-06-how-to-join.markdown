@@ -3,6 +3,7 @@ layout: post
 title: "How To Join"
 categories: Club-Info Joining
 tags: joining
+banner: "/assets/banners/cropped-dan-cromlech.png"
 ---
 
 ELIGIBILITY

@@ -3,6 +3,7 @@ layout: post
 title: "Planning Guidelines & Cancellation"
 categories: Club-Info Club-Trips
 tags: club-trips
+banner: "/assets/banners/cropped-0182.jpg"
 ---
 
 Any member can organise a trip or event. However, if you want to ask the club to consider covering some financial outlay (say a hut booking) then you are expected to have planned far enough in advance to place your item on the next committee meeting agenda (approximately every 3 months).

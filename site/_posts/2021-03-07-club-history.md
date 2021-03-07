@@ -3,6 +3,7 @@ layout: post
 title: "Club History"
 categories: Club-Info About
 tags: about
+banner: "/assets/banners/E48A7994-copy.jpg"
 ---
 
 Clwyd Mountaineering Club began its life as Denbighshire Mountaineering Club in 1969. The Club was formed by a small, active group of climbers of generally average ability, who wanted to establish a circle of friends with whom they could climb or walk in the hills regularly. In 1975, with the change of the County name, the Club became Clwyd Mountaineering Club. From these modest beginnings, the Club has grown and developed.

@@ -3,6 +3,7 @@ layout: post
 title: "Climbing Coaching"
 categories: Club-Info Climbing
 tags: climbing
+banner: "/assets/banners/cropped-dalis-hole.png"
 ---
 
 For those that are keen to improve their climbing grade, Clwyd MC offers climbing coaching. Normally we have at least one coaching weekend in the year when experienced members offer their services. This year we also had coaches from Plas y Brenin.

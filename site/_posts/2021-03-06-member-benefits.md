@@ -3,6 +3,7 @@ layout: post
 title: "Member Benefits"
 categories: Joining
 tags: joining
+banner: "/assets/banners/cropped-0182.jpg"
 ---
 
 # MEMBER BENEFITS

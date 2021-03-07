@@ -1,7 +1,9 @@
 ---
-title: Committee Members
+layout: post
+title: "Committee Members"
 categories: Club-Info About
 tags: about
+banner: "/assets/banners/cropped-dan-cromlech.png"
 ---
 
 Clwyd Mountaineering Club currently has the following committee members:

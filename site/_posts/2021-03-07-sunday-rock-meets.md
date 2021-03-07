@@ -3,6 +3,7 @@ layout: post
 title: "Sunday Rock Meets"
 categories: Club-Info Climbing
 tags: climbing
+banner: "/assets/banners/cropped-jayne-pembroke.png"
 ---
 
 Martin Worthy is the co-ordinator and will post details of the weekly climbing meet on the club bulletin board.

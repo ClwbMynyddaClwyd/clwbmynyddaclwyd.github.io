@@ -4,6 +4,7 @@ title: "Walks & Scrambles"
 date:   2021-03-06 16:40:59 +0000
 categories: Club-Info Walking Walks-And-Scrambles
 tags: walking scrambling
+banner: "/assets/banners/crib-lem-winter.jpg"
 ---
 
 We hold walks & scrambles in North Wales at least every fortnight.
