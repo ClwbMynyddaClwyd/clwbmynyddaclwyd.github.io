@@ -38,14 +38,14 @@ The Name of the Club shall be Clwyd Mountaineering Club.
 4. OFFICERS & TRUSTEES
    1. The management of the club shall be entrusted to the club committee, hereinafter referred to as "the committee”.
    1. The officers of the club shall be:
-      * chairman
-      * vice chairman
-      * secretary
-      * entertainments officer
-      * treasurer
-      * journal editor
-      * BMC Cymru representative & conservation officer
-      * membership secretary
+      1. chairman
+      1. vice chairman
+      1. secretary
+      1. entertainments officer
+      1. treasurer
+      1. journal editor
+      1. BMC Cymru representative & conservation officer
+      1. membership secretary
    1. The chairman, secretary and treasurer shall be the trustees of the club. The signatures of any 2 of the 3 trustees shall be acceptable on cheques, documents etc. The officers shall hold office for one year, at the end of which they shall be eligible for re-election. Voting for the election of officers shall take place at the AGM. If the post of any officer should fall vacant after such an election, the committee shall have the power to fill the vacancy until the succeeding AGM.
    1. The committee shall have the power to co-opt additional non-voting members.
    1. A quorum for a meeting of the committee shall be half of the elected voting members. In addition to the AGM, the committee shall hold at least three meetings each year. Any agenda items shall be sent to the secretary a minimum of 14 days’ prior to the committee meeting, who shall circulate them to the members at least 7 days prior to the committee meeting.
@@ -55,14 +55,14 @@ The Name of the Club shall be Clwyd Mountaineering Club.
 
 5. ANNUAL GENERAL MEETING (AGM)
    1. The AGM shall be held within 3 months of the end of each financial year, and notified to members with 28 days’ notice. The AGM will:
-      * Approve the minutes of the previous year’s AGM.
-      * Receive reports from the chairman and secretary.
-      * Receive a report from the treasurer and approve the annual accounts.
-      * Receive a report from those responsible for certifying the club’s accounts.
-      * Elect the officers on the committee.
-      * Agree the membership fees for the following year.
-      * Consider any proposed changes to the constitution.
-      * Deal with other relevant business.
+      1. Approve the minutes of the previous year’s AGM.
+      1. Receive reports from the chairman and secretary.
+      1. Receive a report from the treasurer and approve the annual accounts.
+      1. Receive a report from those responsible for certifying the club’s accounts.
+      1. Elect the officers on the committee.
+      1. Agree the membership fees for the following year.
+      1. Consider any proposed changes to the constitution.
+      1. Deal with other relevant business.
    1. Nominations for officers will be sent to the secretary a minimum of 14 days’ prior to the AGM, who shall circulate them to the members at least 7 days before an AGM. Only nominations submitted by 2 full members of the Club will be accepted. In the event of there being more than one nomination for any one post, election shall be by secret ballot of the votes of the members present. Unless they do not wish to stand for reelection, the existing officers shall be deemed to be automatically nominated.
    1. All full members present in person have the right to vote at the AGM. Each member will have one vote and all matters shall be determined by a simple majority except any proposal pursuant to clause 11 and 12.
    1. Any full member who is not able to attend a meeting may appoint the chairman of the meeting as their proxy. In this case, the member shall advise the secretary by post or email, indicating how they wish their vote to be cast. This shall arrive no less than 3 days before the meeting. The vote shall be included in any count made by the chairman, but shall not apply to motions which are amended at the meeting. If a member who has posted a proxy vote attends a meeting, the proxy vote will be discounted, and the member will be able to vote.
