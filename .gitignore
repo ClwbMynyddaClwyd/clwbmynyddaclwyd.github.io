@@ -3,3 +3,4 @@
 .jekyll-metadata
 build/
 vendor/
+**/*Zone.Identifier
