@@ -29,16 +29,16 @@ The tools listed in this section are closed to the club members.
 ### Discussion
 We use _discussion platform_ to discuss our meets, outings, mountaineering, and other topics.
  * [Clubmesh Forum](https://clwyd.clubmesh.com/forums/)
- * [Facebook](https://www.facebook.com/groups/333375560348448)
- * [slack](https://app.slack.com/client/T01PNL50LJZ/C01PRVCTE2F)
- * [reddit](https://www.reddit.com/r/CMC_Cymru_UK/)
- * [discord](https://discord.com/channels/817725344656261130/817725344656261133)
+ * [Facebook](https://www.facebook.com/groups/333375560348448) [Android]() [iOS]()
+ * [slack](https://app.slack.com/client/T01PNL50LJZ/C01PRVCTE2F) [Android](https://play.google.com/store/apps/details?id=com.Slack&hl=en_GB&gl=US) [iOS](https://apps.apple.com/us/app/slack/id618783545)
+ * [reddit](https://www.reddit.com/r/CMC_Cymru_UK/) [Android] [iOS]()
+ * [discord](https://discord.com/channels/817725344656261130/817725344656261133) [Android](https://play.google.com/store/apps/details?id=com.discord&hl=en_GB&gl=US) [iOS](https://apps.apple.com/us/app/discord-talk-chat-hang-out/id985746746 )
 
 ### Messaging apps for last-minute organisation
 We use _messaging app_ to keep in touch for events.
- * Telegram - [Web](https://web.telegram.org/) | [Android] | [iOS]
- * WhatsApp - [Web](https://web.whatsapp.com/) | [Android] | [iOS]
- * Facebook Messenger - [Web](https://www.messenger.com/) | [Android] | [iOS]
+ * Telegram - [Web](https://web.telegram.org/) [Android](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_GB&gl=US) [iOS](https://apps.apple.com/us/app/telegram-messenger/id686449807)
+ * WhatsApp - [Web](https://web.whatsapp.com/) [Android](https://play.google.com/store/apps/details?id=com.whatsapp&hl=en_GB&gl=US) [iOS](https://apps.apple.com/us/app/whatsapp-messenger/id310633997)
+ * Facebook Messenger - [Web](https://www.messenger.com/) [Android](https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en_GB&gl=US) [iOS](https://apps.apple.com/us/app/messenger/id454638411)
 
 ### Club and Committee Meetings
 Committee and AGMs are held on
